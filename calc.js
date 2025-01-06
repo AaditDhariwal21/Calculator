@@ -62,9 +62,9 @@ sub.addEventListener("click", function(){
     }
     
     upperText.innerHTML=0;
-    console.log(numbers)
-    console.log(opers)
-    console.log(i)
+    // console.log(numbers)
+    // console.log(opers)
+    // console.log(i)
 })
 
 multiply.addEventListener("click", function(){
@@ -81,9 +81,9 @@ multiply.addEventListener("click", function(){
     }
     
     upperText.innerHTML=0;
-    console.log(numbers)
-    console.log(opers)
-    console.log(i)
+    //console.log(numbers)
+    //console.log(opers)
+    //console.log(i)
 })
 
 divide.addEventListener("click", function(){
@@ -100,9 +100,9 @@ divide.addEventListener("click", function(){
     }
     
     upperText.innerHTML=0;
-    console.log(numbers)
-    console.log(opers)
-    console.log(i)
+    //console.log(numbers)
+    //console.log(opers)
+    //console.log(i)
 })
 
 equal.addEventListener("click", function(){
@@ -127,8 +127,8 @@ equal.addEventListener("click", function(){
         }
         i++
     }
-    console.log(i)
-    console.log(numbers)
+    //console.log(i)
+    //console.log(numbers)
     upperText.innerHTML=numbers[numbers.length-1];
     currentNum=Number(upperText.innerHTML)
 })
