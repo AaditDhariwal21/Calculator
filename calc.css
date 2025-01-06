@@ -9,7 +9,7 @@ body{
 
 .container{
     width: 900px;
-    height: 932px;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
