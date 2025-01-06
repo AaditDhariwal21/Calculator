@@ -43,9 +43,9 @@ plus.addEventListener("click", function(){
     }
     
     upperText.innerHTML=0;
-    console.log(numbers)
-    console.log(opers)
-    console.log(i)
+    //console.log(numbers)
+    //console.log(opers)
+    //console.log(i)
 })
 
 sub.addEventListener("click", function(){
